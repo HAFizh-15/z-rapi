@@ -133,7 +133,7 @@ var len = 15
             randomlagi += arr[Math.floor(Math.random() * arr.length)];
         }
 
-        var randomTextNumber = random+randomlagi+'---------ZefianGanteng'+'RIZQI--GANTENG';
+        var randomTextNumber = random+randomlagi+'---------BenniGanteng'+'BENNI--GANTENG';
         
  //END RANDOM 
  
